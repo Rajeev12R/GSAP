@@ -1,4 +1,9 @@
+
 # ScrollTrigger Animation using GSAP
+
+![badge](https://img.shields.io/badge/GSAP-3.12.5-brightgreen)
+![custom badge](https://img.shields.io/badge/GSAP-ScrollTrigger-blue)
+
 
 This project demonstrates the basics of using the GSAP (GreenSock Animation Platform) ScrollTrigger plugin to create scroll-based animations. The example includes animations applied to different containers and elements, showcasing how ScrollTrigger can be used to control animations based on the scroll position.
 
@@ -41,4 +46,4 @@ To set up the project, include the following CDN links in your HTML file for GSA
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" crossorigin="anonymous"></script>```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" crossorigin="anonymous"></script>
